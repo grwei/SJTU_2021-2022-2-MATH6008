@@ -1,3 +1,19 @@
+# SJTU_2021-2022-2-MATH6008
+
+2022 Spring, MATH6008 偏微分方程数值方法
+
+- [课程主页](https://grwei.github.io/SJTU_2021-2022-2-MATH6008/)
+- [个人主页](https://grwei.github.io/)
+
+## Contents
+
+- [Homework 1](hw1_危国锐_120034910021.pdf)
+
+## Contact me
+
+- Guorui Wei (危国锐)
+- E-mail: 313017602@qq.com; weiguorui@sjtu.edu.cn
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/grwei/SJTU_2021-2022-2-MATH6008/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
