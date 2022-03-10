@@ -9,6 +9,10 @@
 
 - [Homework 1](hw1_危国锐_120034910021.pdf)
 
+### STAT6001
+
+- [Homework 3](STAT6001/hw3_危国锐_120034910021.pdf)
+
 ## Contact me
 
 - Guorui Wei (危国锐)
