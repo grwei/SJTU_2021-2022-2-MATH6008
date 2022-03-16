@@ -13,6 +13,11 @@
 ### STAT6001
 
 - [Homework 3](STAT6001/hw3_危国锐_120034910021.pdf)
+- [Homework 4](STAT6001/hw4_危国锐_120034910021.pdf)
+
+### MATH2401
+
+- [Homework (Week 3-4)](MATH2401/hw20220316_危国锐_516021910080.pdf)
 
 ## Contact me
 
