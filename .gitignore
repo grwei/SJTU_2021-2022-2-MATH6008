@@ -1,6 +1,7 @@
 # 
 ~$*.docx
 *.asv
+*.lnk
 
 # Prerequisites
 *.d
