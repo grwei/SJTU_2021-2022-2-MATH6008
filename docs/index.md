@@ -14,6 +14,7 @@
 - [Homework 3](https://grwei.github.io/SJTU_2021-2022-2-MATH6008/hw3_危国锐_120034910021.pdf) (2022-04-04)
 - [Homework 4](https://grwei.github.io/SJTU_2021-2022-2-MATH6008/hw4_危国锐_120034910021.pdf) (2022-04-18)
 - [Homework 5](https://grwei.github.io/SJTU_2021-2022-2-MATH6008/hw5_危国锐_120034910021.pdf) (2022-05-05)
+- [Homework 6](https://grwei.github.io/SJTU_2021-2022-2-MATH6008/hw6_危国锐_120034910021.pdf) (2022-05-30)
 
 ## Contact infomation
 
