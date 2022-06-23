@@ -16,6 +16,10 @@
 - [Homework 5](https://grwei.github.io/SJTU_2021-2022-2-MATH6008/hw5_危国锐_120034910021.pdf) (2022-05-05)
 - [Homework 6](https://grwei.github.io/SJTU_2021-2022-2-MATH6008/hw6_危国锐_120034910021.pdf) (2022-05-30)
 
+### class video
+
+- [](https://vshare.sjtu.edu.cn/play/ef7aa39792ab47117455742634620a6e)
+
 ## Contact infomation
 
 - Guorui Wei (危国锐)

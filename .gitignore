@@ -1,3 +1,7 @@
+#
+*.mp4
+canvas/course_files_export*.zip
+
 # 
 ~$*.docx
 *.asv
